@@ -16,6 +16,7 @@ h2 {
 
 .contents {
   background-image: url("../images/the-flatiron-building.png");
+  background-position: center;
   font-size: 18 px;
   color: white;
 }
