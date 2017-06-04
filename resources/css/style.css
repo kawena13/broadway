@@ -25,10 +25,17 @@ a {
   color: white;
 }
 
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
 .contents {
   background-image: url("../images/the-flatiron-building.png");
   background-position: center;
-  font-size: 18 px;
+  font-size: 18px;
   font-weight: bold;
   color: white;
 }
@@ -37,7 +44,7 @@ a {
   background-image: url("../images/the-flatiron-building.png");
   background-position: center;
   background-size: auto;
-  font-size: 23 px;
+  font-size: 23px;
   font-weight: bold;
   color: white;
 }
