@@ -33,6 +33,15 @@ a {
   color: white;
 }
 
+.portfolio {
+  background-image: url("../images/the-flatiron-building.png");
+  background-position: center;
+  background-size: auto;
+  font-size: 23 px;
+  font-weight: bold;
+  color: white;
+}
+
 #details {
   font-size: 14px;
 }
